@@ -1,5 +1,5 @@
 import React from 'react'
-import SectionWrapper from './SectionWrapper.Jsx'
+import SectionWrapper from './SectionWrapper.jsx'
 import ExerciseCard from './ExerciseCard'
 
 export default function Workout(props) {
